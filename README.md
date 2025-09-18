@@ -1,7 +1,7 @@
 # Web3-Api
 
 
-Basic application that allow send, receive, and view the balance of an Ethereum crypto wallet. You can also view market rates.
+Basic application that allow send, receive, and view the balance of an Ethereum crypto wallet. Can also view market rates.
 
 Built using Nethereum to interact with the Ethereum blockchain
 
